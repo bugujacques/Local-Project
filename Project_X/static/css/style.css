@@ -1,0 +1,29 @@
+
+.color_red{
+    color: red;
+}
+
+#header{
+
+    background-color: #000;
+
+}
+
+.nav_main{
+
+    color:#FFF;
+
+}
+
+.nav_main:hover{
+
+    color:red;
+
+}
+
+.matching-dark-bg{
+
+    background-color: #22222a;
+
+}
+
